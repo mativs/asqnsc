@@ -1,0 +1,16 @@
+.avatar img {
+  width: 30rem;
+  border-radius: 50%;
+  border-radius: 0%;
+  @media only screen and (max-device-width: 768px) {
+    width: 15rem;
+  }
+}
+
+.centered .about ul.posts li { 
+    display: block;
+}
+
+.centered .about ul.posts li a { 
+    font-size: 1.2rem;
+}
