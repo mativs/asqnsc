@@ -16,7 +16,7 @@
     <ul class="posts">
       {{ range first 5 .Paginator.Pages }}
       <li>
-        <a href="{{ .URL }}">{{ .Title }}</a>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
       </li>
       {{ end }}
       <li> <a href="/posts/">...</a></li>
