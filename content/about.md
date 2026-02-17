@@ -11,7 +11,7 @@ Although I have been programming for many years, I cannot call myself an expert 
 
 This blog is created with [Hugo](https://gohugo.io/) based on [hugo-coder-portfolio](https://github.com/naro143/hugo-coder-portfolio).   
 The home image Logo credit goes to [wowauwero](http://wowauwero.deviantart.com/).  
-It is hosted by [Netlify](https://www.netlify.com/)  and it's source code lives in [GitLab](https://about.gitlab.com/)
+It is hosted by [Netlify](https://www.netlify.com/)  and it's source code lives in [Git](https://github.com/mativs/asqnsc)
 
 
 ---------------------------
