@@ -1,5 +1,5 @@
 +++ 
-date = 2022-04-28T11:47:21-03:00
+date = 2026-02-17T11:03:05-03:00
 title = "Make it public"
 slug = "make-it-public" 
 tags = ['about']
