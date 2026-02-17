@@ -16,9 +16,9 @@ defaultcontentlanguage = "en" # The default content language.
   [markup.goldmark.renderer]
     unsafe = true # Allow raw HTML in markdown files.
 
-[services]
-  [services.disqus]
-    shortname = "asqnsc" # Enable or disable Disqus.
+# [services]
+#   [services.disqus]
+#     shortname = "asqnsc" # Enable or disable Disqus.
 
 [params] # theme parameters
     author = "Asq Nsc" # Author's name.
