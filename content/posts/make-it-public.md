@@ -15,4 +15,4 @@ I need to practice my English. Learning languages, by my own uninvestigated, unt
 
 I have some knowledge. I'm pretty sure it's not so fancy, but think in this way; between having all this knowledge in notes, Feedly archives, Karakeep, Simplenotes, or just in my head; I think it's so much better to just give it some form and publish it on the internet. It's just as the old days where blogs were starting. Do you feel the romantic vibe?
 
-So, what is all this about? I will start saving every lesson I have learned, every piece of programming and related topics I have and every new insight that appears into this humble and probably unread blog. I will start remembering old good lessons and of course bringing new ones, and, if by any chance are you reading this, I just hope it helps 😁
+So, what is all this about? I will start saving every lesson I have learned, every piece of programming and related topics I have and every new insight that appears into this humble and probably unread blog. I will start remembering old good lessons and of course bringing new ones, and, if by any chance are you reading this, I just hope it helps :D
