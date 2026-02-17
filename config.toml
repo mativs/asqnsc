@@ -25,7 +25,7 @@ defaultcontentlanguage = "en" # The default content language.
     info = "SOFTWARE ENGINEERING" # Author's job title or info.
     description = "Trivial notes about my programming experience" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
-    avatarurl = "images/franky-bw.jpeg" # Contain the path of the optionnal avatar in the static folder.
+    avatarurl = "images/franky.png" # Contain the path of the optionnal avatar in the static folder.
 
     footercontent = " " # Add footer content
     fixedbarContent = "Of course it is happening inside your head ... " # Add fixedbar content
