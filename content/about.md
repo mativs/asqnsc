@@ -7,9 +7,7 @@ description: "about"
 ---
 
 ---------------------------
-Hi, my name is Nicholas Severius Coleridge
-
-Although I have been programming for many years, I still cannot call myself a programming master and besides english is not my native language. In fact, one of the reason I write this blog is also to learn: I will really appreciate if you can correct my mistakes or misunderstandings. 
+Although I have been programming for many years, I still cannot call myself a programming master and besides, english is not my native language. In fact, one of the reason I write this blog is also to learn: I will really appreciate if you can correct my mistakes or misunderstandings. 
 
 You can contact me at this [email](mailto:touch@nowherefarm.com)
 
