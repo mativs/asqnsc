@@ -1,5 +1,5 @@
-baseurl = "https://asqnsc.nowherefarm.com" # Hostname (and path) to the root.
-title = "Asq Nsc" # Site title.
+baseurl = "https://hopeithelps.nowherefarm.com" # Hostname (and path) to the root.
+title = "Hope It Helps" # Site title.
 theme = "coder-portfolio" # Set the theme.
 languagecode = "en" # The site’s language code used to generate RSS.
 defaultcontentlanguage = "en" # The default content language.
@@ -18,10 +18,10 @@ defaultcontentlanguage = "en" # The default content language.
 
 # [services]
 #   [services.disqus]
-#     shortname = "asqnsc" # Enable or disable Disqus.
+#     shortname = "hopeithelps" # Enable or disable Disqus.
 
 [params] # theme parameters
-    author = "Asq Nsc" # Author's name.
+    author = "Hope It Helps" # Author's name.
     info = "SOFTWARE ENGINEERING" # Author's job title or info.
     description = "Trivial notes about my programming experience" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
