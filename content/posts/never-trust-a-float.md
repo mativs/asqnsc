@@ -21,13 +21,13 @@ Once you know this, saying it out loud seems a little obvious — but at the tim
 What's the result of this in python?
 
 ```python
-9 * 0.3
+66.74 * 100
 ```
 
-Tada!!
+`6674` no no no ....... Tada!!
 
 ```python
-2.6999999999999997
+6673.999999999999
 ```
 
 So, I learned two important things here:
