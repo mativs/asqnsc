@@ -7,9 +7,6 @@ categories = []
 thumbnail = "images/tn.png"
 description = ""
 +++
-
-Data Matters
-
 When I think of my calling as an Engineer, I usually think of someone that loves to build and improve processes till the end of time. However, on the other side of the boxing ring, I must always stress to myself, that in this path, two North Stars can be meaningful at the same time, because, as the title praises, “Data Matters”. 
 
 In my current job, one of the founders has a culture of data priority. And, to be honest, much to my chagrin, I’ve started to feel that he is totally spot on. This is a short list of some of the insights I’ve learned here.
